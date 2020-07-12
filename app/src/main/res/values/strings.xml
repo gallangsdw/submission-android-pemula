@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">daftar fakultas</string>
+    <string name="name_faculty">Nama Fakultas</string>
+    <string name="faculty_location">Lokasi</string>
+    <string name="about">about</string>
+    <string name="myname">Gallang Sadewa</string>
+    <string name="address">Sleman, yogyakarta</string>
+    <string name="email">gallangsadewa@gmail.com</string>
+    <string name="desc">Hello </string>
+</resources>
